@@ -1,4 +1,4 @@
-package com.zao.counter.challenge;
+package com.zao.counter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
